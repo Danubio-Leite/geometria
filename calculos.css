@@ -116,7 +116,7 @@ main{
   body {
     font-family: 'Montserrat', sans-serif;
     background: linear-gradient(#5b90ed, #d8e3f7);
-    padding: 1px;
+    padding: 0px;
   }
 
 	.titulo {
@@ -153,13 +153,13 @@ main{
   
   .input {
     display: flex;
-    width: 280px;
+    width: 130px;
     height: 45px;
     justify-content: space-between;
     align-items: center;
   }
   .input input {
-    width: 200px;
+    width: 130px;
     height: 50px;
     border-radius: 5px;
     border:none;
@@ -174,7 +174,7 @@ main{
   }
   
   button{
-    width: 280px;
+    width: 130px;
     height: 40px;
     font: bold 1.2rem serif;
     background: #000;
@@ -188,7 +188,7 @@ main{
     display: flex;
     margin-top: 20px;
     align-items: center;
-    width: 300px;
+    width: 200px;
     height: 130px;
     border-radius: 5px;
     font: italic 1.5rem serif;
